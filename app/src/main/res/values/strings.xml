@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tak Tik Tuk</string>
+    <string name="unSelected">*</string>
+    <string name="xSelected">X</string>
+    <string name="oselected">O</string>
+    <string name="resetBtn">RESET</string>
+    <string name="btnTest">TEST</string>
+</resources>
